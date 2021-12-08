@@ -32,7 +32,7 @@ namespace Pokeyi.UdonSharp
         private LineRenderer lineRenderer; // Reference to line renderer component.
 
         public void Start()
-        {   // Assign reference to line renderer, set target and midpoint to 'IgnoreRaycast' layer.
+        {   // Assign reference to line renderer, set target and midpoint to 'IgnoreRaycast' layer:
             lineRenderer = GetComponent<LineRenderer>();
             lineRenderer.positionCount = 3;
             if (laserTarget != null) laserTarget.layer = 2;
