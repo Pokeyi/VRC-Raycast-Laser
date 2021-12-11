@@ -49,8 +49,8 @@ If you want players or objects to be effected by your laser, you can add game ob
 
 ### Reflective Properties
 If and how the laser can reflect off of other game objects.
-- Can Reflect - Toggle aility to bounce on reflective surface.
-- Reflect Name Contains - Check raycast for partial object name designating a reflective surfaces.
+- Can Reflect - Toggle ability to bounce on reflective surfaces.
+- Reflect Name Contains - Check for partial object name designating a reflective surfaces.
 
 ### Use Case Examples
 Despite the name you could use this for things other than lasers, and I plan to add more functionality for these.
