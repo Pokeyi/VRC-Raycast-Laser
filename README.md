@@ -1,4 +1,4 @@
-# 🚧 VRC-Raycast-Laser [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Raycast-Laser/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Raycast-Laser/releases)
+# 🚧 VRC-Raycast-Laser <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Raycast-Laser/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Raycast-Laser/releases) -->
 Raycast laser renderer and point-plotter for VRChat.
 
 ![Raycast Laser](P_RaycastLaser.png)
